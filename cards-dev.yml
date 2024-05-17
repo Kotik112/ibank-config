@@ -1,0 +1,10 @@
+build:
+  version: "0.2"
+
+cards:
+  message: "Welcome to iBank Cards Service (Dev env)!"
+  contactDetails:
+    name: "Arman Iqbal - Developer"
+    email: "armaniqbal@gmail.com"
+  onCallSupport:
+    - "armaniqbal@gmail.com"

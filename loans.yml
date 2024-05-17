@@ -1,0 +1,10 @@
+build:
+  version: "default"
+
+loans:
+  message: "Welcome to iBank Loans Service (Default env)!"
+  contactDetails:
+    name: "Arman Iqbal - Developer"
+    email: "armaniqbal@gmail.com"
+  onCallSupport:
+    - "armaniqbal@gmail.com"
