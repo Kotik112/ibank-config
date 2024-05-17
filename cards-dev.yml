@@ -5,6 +5,6 @@ cards:
   message: "Welcome to iBank Cards Service (Dev env)!"
   contactDetails:
     name: "Arman Iqbal - Developer"
-    email: "{cipher}d696677553eb4e0f44fb578f24361691cc417ab4a56bc5132b5c741a1ef67c2da597e095d8958b27d1b317d26839413e"
+    email: "{cipher}84ab6ce2c27d3804ea63598e369eef288c4f343d0c4fad753ee681116531c1f3e4bafc758c402f6c9c7ea37156a14945"
   onCallSupport:
-    - "{cipher}d696677553eb4e0f44fb578f24361691cc417ab4a56bc5132b5c741a1ef67c2da597e095d8958b27d1b317d26839413e"
+    - "{cipher}84ab6ce2c27d3804ea63598e369eef288c4f343d0c4fad753ee681116531c1f3e4bafc758c402f6c9c7ea37156a14945"
