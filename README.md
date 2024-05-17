@@ -1,1 +1,1 @@
-# ibank-config
+# iBank config server microservice
