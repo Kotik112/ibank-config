@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to iBank Accounts Service (Dev env)!"
   contactDetails:
     name: "Arman Iqbal - Developer"
-    email: "armaniqbal@gmail.com"
+    email: "{cipher}d696677553eb4e0f44fb578f24361691cc417ab4a56bc5132b5c741a1ef67c2da597e095d8958b27d1b317d26839413e"
   onCallSupport:
-    - "armaniqbal@gmail.com"
+    - "{cipher}d696677553eb4e0f44fb578f24361691cc417ab4a56bc5132b5c741a1ef67c2da597e095d8958b27d1b317d26839413e"
