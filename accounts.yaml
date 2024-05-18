@@ -2,7 +2,7 @@ build:
   version: "default"
 
 accounts:
-  message: "Welcome to iBank Accounts Service (Default env)!"
+  message: "Welcome to iBank Accounts Service Docker APIs(Default env)!"
   contactDetails:
     name: "Arman Iqbal - Developer"
     email: "{cipher}84ab6ce2c27d3804ea63598e369eef288c4f343d0c4fad753ee681116531c1f3e4bafc758c402f6c9c7ea37156a14945"
